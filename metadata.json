@@ -1,0 +1,6 @@
+{
+  "name": "VEMU Institute of Technology",
+  "description": "Modern website for VEMU Institute of Technology, P. Kothakota, Chittoor District, AP. Affiliated to JNTUA, Approved by AICTE, NAAC Accredited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
